@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-10-30T14:30:55.376Z"
+    },
+    {
+      "description": "Compra na shoppe",
+      "price": 25,
+      "category": "Setup",
+      "type": "outcome",
+      "createdAt": "2023-11-03T16:30:17.784Z",
+      "id": 3
+    },
+    {
+      "description": "Lanche",
+      "price": 15,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2023-11-03T16:49:07.846Z",
+      "id": 4
     }
   ]
 }
